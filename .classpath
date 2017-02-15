@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_76"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Downloads/guava-10.0.jar/guava-10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/lucene-core-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/contrib/analyzers/common/lucene-analyzers-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/contrib/queryparser/lucene-queryparser-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/contrib/spellchecker/lucene-spellchecker-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Downloads/commons-io-2.4.jar/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/contrib/queries/lucene-queries-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/contrib/regex/lucene-regex-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/contrib/misc/lucene-misc-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/contrib/wordnet/lucene-wordnet-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/contrib/ant/lucene-ant-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/lucene-demos-3.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
